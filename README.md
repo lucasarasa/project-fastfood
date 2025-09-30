@@ -1,36 +1,38 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🍔 FSW Donald's
 
-## Getting Started
+<p align="center">
+  <img src="./public/capa.png" alt="FSW Donald's" width="800"/>
+</p>
 
-First, run the development server:
+Aplicação fullstack de fast food inspirada na experiência do McDonald's, desenvolvida para praticar **Next.js, Prisma e integração com banco de dados**.  
+O foco é oferecer uma interface moderna, responsiva e intuitiva, simulando um sistema de pedidos.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Tecnologias
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,prisma,postgres,vercel,git,github)](https://skillicons.dev)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ⚙️ Funcionalidades
 
-To learn more about Next.js, take a look at the following resources:
+- Escolha entre **comer no local** ou **para viagem**
+- Listagem de produtos com categorias (lançamentos, combos, bebidas…)
+- Detalhes do produto com descrição e ingredientes
+- Adicionar itens à sacola de pedidos
+- Interface adaptada para Mobile (versão Desktop em desenvolvimento)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🌐 Acesse a aplicação
 
-## Deploy on Vercel
+👉 [FSW Donald's - Deploy na Vercel](https://project-fastfood-ten.vercel.app/fsw-donalds)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📬 Contato
+
+Lucas Sarasa  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassarasa/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/lucasarasa)
