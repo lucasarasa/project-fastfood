@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "FSW Donalds",
   description: "Application to find restaurants nearby you",
   icons: {
-    icon: "/fastfood-icon.svg",
+    icon: "/fastfood-icon-v2.png",
   },
 };
 
